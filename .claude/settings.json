@@ -1,9 +1,9 @@
 {
   "permissions": {
     "allow": ["Bash"],
-    "deny": [],
+    "deny": [".env*"],
     "ask": [],
     "defaultMode": "plan"
   },
-  "outputStyle": "Explanatory"
+  "outputStyle": "Learning"
 }
